@@ -1,6 +1,10 @@
-// SHA512.cpp : Defines the entry point for the console application.
-//
-#include "stdafx.h"
+#include <iostream>
+#include <vector>
+#include <map>
+#include <string>
+#include <cassert>
+#include <algorithm>
+#include <utility>
 using namespace std;
 
 typedef unsigned long long ULL;
